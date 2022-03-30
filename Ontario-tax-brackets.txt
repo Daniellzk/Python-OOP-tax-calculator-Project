@@ -1,0 +1,16 @@
+
+2022 tax rates:
+Federal
+
+15% on the first $50,197 of taxable income, plus
+20.5%  of the next $50,197 of taxable income (on portion over $50,197 up-to $100,392), plus
+26% on the next $55,233 of taxable income (on portion over $100,392 up-to $155,625), plus
+29% on the next $66,083 of taxable income (on the portion over $155,625 up-to $221,708), plus
+33% of taxable income over $221,708
+Ontario:
+
+5.05% on the first $46,226 of taxable income, plus
+9.15% on the next $92,454, plus
+11.16% on the next $150,000, plus
+12.16% on the next, $220,000, plus
+13.16% on the amount over $220,000
